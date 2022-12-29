@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 ![Hai Wu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hailanyi&count_private=true&show_icons=true&theme=dracula&hide=prs,contribs)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hailanyi&layout=compact) -->
+
+* (2022/5 - 2022/11) [TED](https://github.com/hailanyi/TED) ranks 1st on KITTI 3D detection benchmark
+* (2022/9 - 2022/11) [CasTrack](https://github.com/hailanyi/CasTrack) ranks 1st on KITTI tracking benchmark
+* (2021/11 - 2022/5) [CasA](https://github.com/hailanyi/CasTrack) attains SOTA on KITTI 3D detection benchmark
