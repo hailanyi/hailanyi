@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Hai Wu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hailanyi&count_private=true&show_icons=true&theme=dracula&hide=prs,contribs)
+![Hai Wu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hailanyi&count_private=true&show_icons=true&theme=dracula&hide=prs)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hailanyi&layout=compact) -->
 
