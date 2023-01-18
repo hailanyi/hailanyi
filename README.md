@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Hai Wu's GitHub stats](https://github-readme-stats-weld-xi.vercel.app/api?username=hailanyi&count_private=true&show_icons=true&theme=dracula&hide=prs)
+![Hai Wu's GitHub stats](https://github-readme-stats-tqlo-git-master-hailanyi.vercel.app/api?username=hailanyi&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide=prs,contribs&include_all_commits=true)
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hailanyi&layout=compact) -->
 
 * (2022/5 - 2022/11) [TED](https://github.com/hailanyi/TED) ranks 1st on KITTI 3D detection benchmark
 * (2022/9 - 2022/11) [CasTrack](https://github.com/hailanyi/3D-Multi-Object-Tracker) ranks 1st on KITTI tracking benchmark
