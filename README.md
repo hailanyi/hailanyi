@@ -1,5 +1,6 @@
-### Hi there 👋, welcome to Hai Wu's GitHub page!
-
+### Hi! I'm a PhD candidate at Xiamen University! 
+### Welcome to my GitHub page 👋. 
+### --Hai Wu
 <!--
 **hailanyi/hailanyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +18,8 @@ Here are some ideas to get you started:
 
 ![Hai Wu's GitHub stats](https://github-readme-stats-tqlo-git-master-hailanyi.vercel.app/api?username=hailanyi&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide=prs,contribs&include_all_commits=true)
 
-
+* (2022/11 - 2023/3) [VirConv](https://github.com/hailanyi/VirConv) ranks 1st on KITTI 3D/2D/BEV detection benchmark
+* (2022/11 - 2023/1) [VirConvTrack](https://github.com/hailanyi/3D-Multi-Object-Tracker) ranks 1st on KITTI tracking benchmark
 * (2022/5 - 2022/11) [TED](https://github.com/hailanyi/TED) ranks 1st on KITTI 3D detection benchmark
 * (2022/9 - 2022/11) [CasTrack](https://github.com/hailanyi/3D-Multi-Object-Tracker) ranks 1st on KITTI tracking benchmark
 * (2021/11 - 2022/5) [CasA](https://github.com/hailanyi/CasA) attains SOTA on KITTI 3D detection benchmark
