@@ -1,4 +1,4 @@
-### Hi! I'm a PhD candidate at Xiamen University! Welcome to my GitHub page 👋. 
+### Hi! I'm a researcher at PCL! Welcome to my GitHub page 👋. 
 <!--
 **hailanyi/hailanyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
